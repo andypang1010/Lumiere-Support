@@ -1,3 +1,3 @@
 # Lumiere-Support
 
-Support information for Lumiere (iOS)
+Support information and privacy policies for Lumiere (iOS)
